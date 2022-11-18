@@ -7,5 +7,5 @@ This repository is dedicated to download sentinel data using API.
 
 ## Settingup virtual environment
 1. Create an virtual conda environment using 'conda create -n LPL'.
-2. Activate the viratual environment using 'conda activate LPL'.
-3. Install all the dependency using requirements.txt 'pip install -r requirements.txt'.
+2. Activate the virtual environment using 'conda activate LPL'.
+3. Install all the dependencies using requirements.txt 'pip install -r requirements.txt'.
