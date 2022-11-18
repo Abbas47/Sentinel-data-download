@@ -2,7 +2,7 @@
 This repository is dedicated to download sentinel data using API.
 
 ## The repository includes:
-1. download_sentineldownload.ipynb
+1. download_sentineldata.ipynb
 2. requirements.txt
 
 ## Setting-up a virtual environment
