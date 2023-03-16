@@ -23,4 +23,4 @@ This repository is dedicated to download sentinel data using API.
     - The inputs for this script:
         1. Define all the relevent folders name which will be used to call/store the data while executing the script
         2. Define parameters for calling the main function defined inside the main.py script
-            * 
+            * test
